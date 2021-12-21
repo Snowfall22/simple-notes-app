@@ -1,0 +1,29 @@
+body{
+  background-image: linear-gradient(to right bottom, #f5f7f9, #def6fc, #c8f6ed, #cbf2cd, #e7e7a9);
+}
+html,body {
+  min-height: 100%;
+}
+h1{
+  font-family: 'Kalam', cursive;
+  text-align: center;
+  padding-top: 20px;
+}
+.add-note{
+  width: 70%;
+  margin: auto;
+
+}
+button{
+  margin-top: 20px;
+  margin-left: 400px;
+  border-radius: 100% !important;
+}
+.row{
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+.card{
+  margin-top: 10px;
+}
